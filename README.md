@@ -8,7 +8,7 @@ my website
 
 ## Setup Instructions
 
-1. go to paulbarhelme.com
+1. go to paulbarthelme.com
 
 ## License
 
